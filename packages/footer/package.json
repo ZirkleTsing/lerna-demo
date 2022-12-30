@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@xiaoze/package1",
   "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {
