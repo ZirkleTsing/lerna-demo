@@ -1,5 +1,5 @@
 {
-  "name": "@xiaoze/package3",
+  "name": "xiaoze-package3",
   "private": true,
   "sideEffects": false,
   "scripts": {

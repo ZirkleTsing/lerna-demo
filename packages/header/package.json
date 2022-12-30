@@ -1,5 +1,5 @@
 {
-  "name": "@xiaoze/package2",
+  "name": "xiaoze-package2",
   "version": "0.0.1",
   "main": "dist/index.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "62f62420ee3acf1b1b9e63758641168634dd2895"
+  "gitHead": "24d7ceb397ca6bcd41e31bac66902695f3644d63"
 }
